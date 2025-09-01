@@ -58,7 +58,6 @@ Exported reports in PDF format, generated from the notebooks and suitable for of
 ```bash
 git clone https://github.com/your-username/option-mini-lab.git
 cd option-mini-lab
-pip install -r requirements.txt
 pytest   # run tests
 ```
 
@@ -72,8 +71,3 @@ Then explore the `notebooks/` to see derivations, figures, and pricing demos.
 - Extend barrier module to down-and-out and knock-in variants.  
 - Expand implied-volatility surface and add Heston/CIR models.  
 - Benchmark NumPy vs Numba JIT implementations.
-
----
-
-## License
-MIT License.
