@@ -1,4 +1,4 @@
-[![CI](https://github.com/<YOUR_GH_USERNAME>/option-mini-lab/actions/workflows/tests.yml/badge.svg)](https://github.com/<YOUR_GH_USERNAME>/option-mini-lab/actions/workflows/tests.yml)
+[![CI](https://github.com/ZBaiY/option-mini-lab/actions/workflows/tests.yml/badge.svg)](https://github.com/ZBaiY/option-mini-lab/actions/workflows/tests.yml)
 
 # Option Mini Lab
 
